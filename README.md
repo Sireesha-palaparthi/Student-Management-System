@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Student Management System
 
 A command-line based Student Management System built using Python and Object-Oriented Programming (OOP) principles. This project allows users to manage student records efficiently by adding, viewing, searching, and deleting student information. Student data is stored persistently using JSON file handling.
@@ -34,3 +35,4 @@ Student-Management-System/
 Learning Outcome
 
 This project was developed to strengthen Python programming fundamentals and gain practical experience with OOP concepts, file handling, and project organization. It serves as a beginner-friendly portfolio project that demonstrates the ability to build and structure a real-world Python application.
+
